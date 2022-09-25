@@ -1,2 +1,5 @@
 Real madrid
 Barcelona
+LDA
+Saprissa
+Heredia
